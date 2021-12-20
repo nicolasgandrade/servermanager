@@ -96,6 +96,6 @@ public class ServerResource {
 
     @GetMapping(path = "/images/{name}", produces = IMAGE_PNG_VALUE)
     public byte[] getServerImage(@PathVariable String name) throws IOException {
-        return Files.readAllBytes(Paths.get(System.getProperty("user.home") + "Downloads/imgs/" + name));
+        return Files.readAllBytes(Paths.get(System.getProperty("user.home") + "/OneDrive/Imagens/imgs/" + name));
     }
 }
