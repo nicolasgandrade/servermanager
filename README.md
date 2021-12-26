@@ -2,6 +2,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <p id="objective"> A backend API to manage servers: add servers, delete and ping them.  
 This API is a part of a Fullstack application, so it is being consumed by the frontend app. You can find the frontend repository here: https://github.com/nicolasgandrade/servermanager-frontend </p>
