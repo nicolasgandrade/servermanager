@@ -7,7 +7,9 @@
 This API is a part of a Fullstack application, so it is being consumed by the frontend app. You can find the frontend repository here: https://github.com/nicolasgandrade/servermanager-frontend </p>
 
 <h4 align="center"> 
-	🚧  Server Manager 🚀 In the last adjustments to be deployed...  🚧
+	Heroku deploy:<br>
+	:heavy_check_mark: Fullstack app: https://serversmanager.herokuapp.com :heavy_check_mark: <br> 
+	:gear: API: https://serversmanager-backend.herokuapp.com :gear:
 </h4>
 
 <p align="center">
