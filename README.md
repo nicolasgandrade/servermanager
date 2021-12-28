@@ -5,13 +5,17 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <p id="objective"> A backend API to manage servers: add servers, delete and ping them.  
-This API is a part of a Fullstack application, so it is being consumed by the frontend app. You can find the frontend repository here: https://github.com/nicolasgandrade/servermanager-frontend </p>
+With this app, you can test the connection between the machine where the program is running and another machine by its IP address. <br>
+This is the API of a Fullstack application, so it is being consumed by the frontend app. You can find the frontend repository here: https://github.com/nicolasgandrade/servermanager-frontend </p>
 
 <h4 align="center"> 
 	Heroku deploy:<br>
 	:heavy_check_mark: Fullstack app: https://serversmanager.herokuapp.com :heavy_check_mark: <br> 
 	:gear: API: https://serversmanager-backend.herokuapp.com :gear:
 </h4>
+
+<p><b>Obs:</b> The deploy in Heroku is just a demo of the application. The original purpose of the project is to test the connection between 2 servers, so
+you can clone the app to your local machine and use the program properly, testing your connection to other servers.</p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
