@@ -37,6 +37,7 @@ you can clone the app to your local machine and use the program properly, testin
 2. In the last lines of ServerResource.java change the return statement to the path you have downloaded the images you're gonna use to the UI. <br>
 3. Create a database on PostgreSQL called "servermanager", or change the configs at application.properties.  <br>
 4. Now you can run and access in your default Spring Boot port.  <br>
+5. (Optional) Remember to run the frontend app too, the guide is in its repository.
 <br>
 To test the API manually, you can use Postman, Insomnia or similar and try the endpoints.
 
